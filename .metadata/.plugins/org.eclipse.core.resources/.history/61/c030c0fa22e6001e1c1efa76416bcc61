@@ -1,0 +1,12 @@
+package oo2_ej1;
+
+public class Retweet{
+	private String posterScreenName;
+	private String originalTweet;
+	
+	public void main(Tweet t, String screenName) {
+		this.posterScreenName = screenName;
+		this.originalTweet = t;
+	}
+
+}

@@ -1,0 +1,12 @@
+package oo2_ej1;
+
+public class Tweet {
+	private static String posterScreenName;
+	private String text;
+
+	public static void main(String screenName) {
+		// TODO Auto-generated method stub
+		posterScreenName = screenName;
+	}
+
+}

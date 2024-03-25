@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Users\julis\OneDrive\Documentos\OO2_Ejercicios\.metadata\.plugins\org.eclipse.jdt.core
+2996934423.index
+1865797976.index
+732481197.index
+3316033409.index

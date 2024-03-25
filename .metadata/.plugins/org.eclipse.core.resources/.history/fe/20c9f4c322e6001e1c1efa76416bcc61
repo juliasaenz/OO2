@@ -1,0 +1,10 @@
+package oo2_ej1;
+
+public class Retweet {
+	private String originalPosterScreenName;
+	
+	public Retweet(Tweet t, String screenName) {
+		super(screenName, t.getText());
+	}
+
+}

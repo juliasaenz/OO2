@@ -1,0 +1,10 @@
+package oo2_ej1;
+
+public class Tweet {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

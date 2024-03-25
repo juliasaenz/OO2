@@ -1,0 +1,16 @@
+package oo2_ej1;
+
+public class Retweet extends Tweet{
+	private Tweet originalTweet;
+	
+	public Retweet(String screenName) {
+		super(screenName);
+	}
+	
+	public void setTweet(Tweet t) {
+		this.originalTweet = t;
+	}
+	
+	public void 
+
+}

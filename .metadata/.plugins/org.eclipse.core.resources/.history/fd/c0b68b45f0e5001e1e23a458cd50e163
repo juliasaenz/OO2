@@ -1,0 +1,8 @@
+
+public class Tijera extends Jugada {
+	
+	public String jugarContra(Tijera tijera) {
+		return "Gane";
+	}
+
+}

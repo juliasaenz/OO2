@@ -1,0 +1,11 @@
+
+public abstract class Jugada {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	
+	public abstract String jugarContra(Tijera tijera);
+
+}

@@ -1,0 +1,9 @@
+package oo2_ej1;
+
+public class Retweet extends Tweet{
+	private String posterScreenName;
+	private Tweet originalTweet;
+	
+	
+
+}
