@@ -2,10 +2,11 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\julis\OneDrive\Documentos\OO2_Ejercicios"/>
+			<item value="C:\Users\julis\OneDrive\Documentos\OO2_Ejercicios\oo2_ej3"/>
 			<item value="C:\Users\julis\OneDrive\Documentos\OO2_Ejercicios\oo2_ej1\src\main\java\oo2_ej1\Twitter.java"/>
 			<item value="C:\Users\julis\OneDrive\Documentos\OO2_Ejercicios\oo2_ej2\src\main\java\Piedra.java"/>
 			<item value="C:\Users\julis\OneDrive\Documentos\OO2_Ejercicios\oo2_ej2"/>
-			<item value="C:\Users\julis\OneDrive\Documentos\OO2_Ejercicios"/>
 			<item value="D:\Julia\Facultad\Informatica\2024 - Orientación a Objetos 2\Ejercicios_OO2"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -49,19 +50,22 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="info"/>
 			<item value="objetos-dos"/>
+			<item value="info"/>
+			<item value="info.ej4"/>
 		</list>
 		<list key="name">
+			<item value="oo2_ej4"/>
 			<item value="oo2_ej3"/>
 			<item value="oo2_ejercicio1"/>
 			<item value="objetos-dos"/>
 			<item value="objectos-dos"/>
 		</list>
 		<list key="artifactId">
+			<item value="oo2_ej4"/>
+			<item value="objetos-dos"/>
 			<item value="oo2_ej3"/>
 			<item value="oo2_ej1"/>
-			<item value="objetos-dos"/>
 			<item value="oo2"/>
 		</list>
 		<list key="projectNameTemplate">
